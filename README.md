@@ -16,10 +16,10 @@ Me encanta escribir codigo 🤖, es de las cosas que mas me apasionan 🖥️
 <div align="left">
    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
-   <img src="https://skillicons.dev/icons?i=react" height="40" alt="html5 logo"/>
-   <img src="https://skillicons.dev/icons?i=django" height="40" alt="html5 logo"/>
-   <img src="https://skillicons.dev/icons?i=python" height="40" alt="html5 logo"/>
-   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="html5 logo"/>
-   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
+   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"/>
+   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
+   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
 </div>
