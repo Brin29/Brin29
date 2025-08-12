@@ -1,3 +1,17 @@
-<h1>¡Hola! soy Breiner Parra 👋</h1>
+# ¡Hola! soy Breiner Parra 👋
 
-<img src="https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885…uS807blUXEca2fks5QhxVg&oe=68A078A5&_nc_sid=7a9f4b">
+## ¿Sobre mi?
+Me encanta escribir codigo 🤖, es de las cosas que mas me apasionan 🖥️ 
+
+🥠 Me gusta aprender cosas nuevas todo el tiempo 
+</br>
+💯 Disfruto solucionar problemas con mi equipo 
+</br>
+
+## Desarrollo Web 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brin29&theme=dark&locale=es&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true" alt="GitHub Streak" /></a>
+
+## Mis Tecnologias 
+
+
+
