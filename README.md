@@ -13,5 +13,13 @@ Me encanta escribir codigo 🤖, es de las cosas que mas me apasionan 🖥️
 
 ## Mis Tecnologias 
 
-
-
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
+   <img src="https://skillicons.dev/icons?i=react" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=django" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=python" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="html5 logo"/>
+   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+</div>
