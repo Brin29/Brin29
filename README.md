@@ -1,12 +1,10 @@
 # ¡Hola! soy Breiner Parra 👋
 
 ## ¿Sobre mi?
-Me encanta escribir codigo 🤖, es de las cosas que mas me apasionan 🖥️ 
+Desarrollador de Software Full Stack, experto en la creación de soluciones escalables, modulares y bien estructuradas, aplicando buenas prácticas de desarrollo y documentación clara. Comprometido con la calidad del software, el aprendizaje continuo y la mejora constante de los procesos y productos tecnológicos.
 
-🥠 Me gusta aprender cosas nuevas todo el tiempo 
-</br>
-💯 Disfruto solucionar problemas con mi equipo 
-</br>
+## Portafolios: [(https://breinerdev-portafolio.vercel.app)]
+## Linkedin:  [(www.linkedin.com/in/breinerdev)]
 
 ## Desarrollo Web 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Brin29)](https://git.io/streak-stats)
@@ -27,8 +25,5 @@ Me encanta escribir codigo 🤖, es de las cosas que mas me apasionan 🖥️
    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
