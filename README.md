@@ -5,6 +5,7 @@ Desarrollador de Software Full Stack, experto en la creación de soluciones esca
 
 ## Sociales
 [Linkedin](https://www.linkedin.com/in/breinerdev)
+
 [Portafolios](https://breinerdev-portafolio.vercel.app)
 
 ## Desarrollo Web 
