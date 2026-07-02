@@ -4,7 +4,7 @@
 Desarrollador de Software Full Stack, experto en la creación de soluciones escalables, modulares y bien estructuradas, aplicando buenas prácticas de desarrollo y documentación clara. Comprometido con la calidad del software, el aprendizaje continuo y la mejora constante de los procesos y productos tecnológicos.
 
 ## Sociales
-[Linkedin](www.linkedin.com/in/breinerdev)
+![Linkedin](www.linkedin.com/in/breinerdev)
 
 ## Desarrollo Web 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Brin29)](https://git.io/streak-stats)
