@@ -36,9 +36,7 @@ Desarrollador de Software Full Stack, especializado en la creación de **solucio
 ---
 
 ### 📊 Estadísticas de GitHub
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brin29&theme=flat" alt="Trofeos" height="45"/>
-</div>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Brin29/Brin29/snake-output/snake.svg" alt="Snake animation" />
 
 ---
-
