@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de Software Full Stack</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="demo"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="demo"/>
 </p>
 
 <p align="center">
