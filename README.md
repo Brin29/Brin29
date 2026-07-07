@@ -1,31 +1,52 @@
-# ¡Hola! soy Breiner Parra 👋
+<h1 align="center">¡Hola, soy Breiner Parra! 👋</h1>
+<h3 align="center">Desarrollador de Software Full Stack</h3>
 
-## ¿Sobre mi?
-Desarrollador de Software Full Stack, experto en la creación de soluciones escalables, modulares y bien estructuradas, aplicando buenas prácticas de desarrollo y documentación clara. Comprometido con la calidad del software, el aprendizaje continuo y la mejora constante de los procesos y productos tecnológicos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/breinerdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://breinerdev-portafolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
 
-## Sociales
-[Linkedin](https://www.linkedin.com/in/breinerdev)
+---
 
-[Portafolios](https://breinerdev-portafolio.vercel.app)
+### 🚀 Sobre mí
 
-## Desarrollo Web 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brin29)](https://git.io/streak-stats)
+Desarrollador de Software Full Stack, especializado en la creación de **soluciones escalables, modulares y bien estructuradas**, aplicando buenas prácticas de desarrollo y documentación clara.
 
-## Mis Tecnologias 
+- 💻 Enfocado en construir aplicaciones web robustas de extremo a extremo
+- 📚 Comprometido con el aprendizaje continuo y la mejora constante
+- 🤝 Apasionado por escribir código limpio y mantenible
+- 🌱 Siempre en busca de nuevos retos técnicos
+
+---
+
+### 🛠️ Mis Tecnologías
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
-    <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"/>
-   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
-   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"/>
-   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
-   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
-   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
-   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,python,django,git,github,figma,docker" alt="Tecnologías" height="45"/>
 </div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brin29&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brin29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brin29&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+</p>
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/breinerdev">LinkedIn</a> ·
+  <a href="https://breinerdev-portafolio.vercel.app">Portafolio</a>
+</p>
