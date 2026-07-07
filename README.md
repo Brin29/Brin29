@@ -36,13 +36,9 @@ Desarrollador de Software Full Stack, especializado en la creación de **solucio
 ---
 
 ### 📊 Estadísticas de GitHub
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brin29&theme=flat" alt="Trofeos" height="45"/>
+</div>
 
-      
 ---
 
-### 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/breinerdev">LinkedIn</a> ·
-  <a href="https://breinerdev-portafolio.vercel.app">Portafolio</a>
-</p>
