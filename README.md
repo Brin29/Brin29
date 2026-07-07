@@ -37,6 +37,10 @@ Desarrollador de Software Full Stack, especializado en la creación de **solucio
 
 ### 📊 Estadísticas de GitHub
 
+<<<<<<< HEAD
 <img data-importer="snake" src="https://raw.githubusercontent.com/Brin29/Brin29/snake-output/snake.svg" alt="Snake animation" />
 
 ---
+=======
+---
+>>>>>>> 9c7740130f1dc83d5d2a64bba58ec6eb682a3654
