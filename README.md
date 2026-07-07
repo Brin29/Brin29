@@ -30,7 +30,7 @@ Desarrollador de Software Full Stack, especializado en la creación de **solucio
 ### 🛠️ Mis Tecnologías
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,python,django,git,github,figma,docker" alt="Tecnologías" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,git,github,docker" alt="Tecnologías" height="45"/>
 </div>
 
 ---
